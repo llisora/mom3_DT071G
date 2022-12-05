@@ -1,0 +1,15 @@
+/Users/lisabacklin/Desktop/skola2/C#/guestbook/bin/Debug/net6.0/guestbook
+/Users/lisabacklin/Desktop/skola2/C#/guestbook/bin/Debug/net6.0/guestbook.deps.json
+/Users/lisabacklin/Desktop/skola2/C#/guestbook/bin/Debug/net6.0/guestbook.runtimeconfig.json
+/Users/lisabacklin/Desktop/skola2/C#/guestbook/bin/Debug/net6.0/guestbook.dll
+/Users/lisabacklin/Desktop/skola2/C#/guestbook/bin/Debug/net6.0/ref/guestbook.dll
+/Users/lisabacklin/Desktop/skola2/C#/guestbook/bin/Debug/net6.0/guestbook.pdb
+/Users/lisabacklin/Desktop/skola2/C#/guestbook/obj/Debug/net6.0/guestbook.csproj.AssemblyReference.cache
+/Users/lisabacklin/Desktop/skola2/C#/guestbook/obj/Debug/net6.0/guestbook.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lisabacklin/Desktop/skola2/C#/guestbook/obj/Debug/net6.0/guestbook.AssemblyInfoInputs.cache
+/Users/lisabacklin/Desktop/skola2/C#/guestbook/obj/Debug/net6.0/guestbook.AssemblyInfo.cs
+/Users/lisabacklin/Desktop/skola2/C#/guestbook/obj/Debug/net6.0/guestbook.csproj.CoreCompileInputs.cache
+/Users/lisabacklin/Desktop/skola2/C#/guestbook/obj/Debug/net6.0/guestbook.dll
+/Users/lisabacklin/Desktop/skola2/C#/guestbook/obj/Debug/net6.0/ref/guestbook.dll
+/Users/lisabacklin/Desktop/skola2/C#/guestbook/obj/Debug/net6.0/guestbook.pdb
+/Users/lisabacklin/Desktop/skola2/C#/guestbook/obj/Debug/net6.0/guestbook.genruntimeconfig.cache
